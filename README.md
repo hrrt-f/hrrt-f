@@ -1,38 +1,44 @@
-# Hi, I'm Herbert Fontenelle
+# Herbert Fontenelle
 
-**Full Stack Developer · React, TypeScript & React Native · Java & Spring Boot**
+**Full Stack Developer · React & TypeScript · Java & Spring Boot**
 
-I build web and mobile applications and study Software Engineering at UNDB. Based in São Luís, Brazil (UTC-3), I'm open to remote opportunities with teams in Brazil and abroad.
+I build interfaces, integrate APIs, and work on the backend rules behind them. At Integra Gov, I am responsible for frontend development on a complex procurement platform, contribute to Java/Spring Boot tasks, and discuss implementation decisions with the team.
 
-## What I work on
+**Brazil · UTC−3 · Advanced English · Open to international remote opportunities**  
+[LinkedIn](https://www.linkedin.com/in/herbertdev/) · [Email](mailto:herbertfontdev@gmail.com)
 
-- **Web applications:** frontend development at Integra Gov with React and TypeScript, including real-time updates with WebSocket, API integrations, and validated forms.
-- **Mobile:** a personal fuel savings app built with React Native, Expo, and Supabase. I handle the interface, authentication, data model, and business logic. The app is in development and undergoing a redesign.
-- **Backend:** experience with Java, Spring Boot, PostgreSQL, REST APIs, and database migrations.
+## What I bring to a team
 
-My current professional work and mobile app are in private repositories. The public projects below document earlier learning in Java.
+- **Frontend ownership:** React and TypeScript flows with business rules, validated forms, asynchronous state, and API integration.
+- **Backend contributions:** Java, Spring Boot, PostgreSQL, REST endpoints, and investigation of failures across the frontend/API boundary.
+- **Real-time behavior:** event-driven screen updates with WebSocket/STOMP, reconnection, and refreshing state after missed updates.
+- **Validation:** browser network inspection, automated tests, and simulated bidding scenarios to evaluate implementation choices.
 
-## Public projects
+My professional repositories are private. The examples below are public learning material and independent demonstrations; they do not contain employer code or internal data.
 
-| Project | What it demonstrates |
+## Explore my work
+
+| Start here | What you can inspect | Scope |
+| --- | --- | --- |
+| [Synchronization lab](examples/synchronization) | Polling versus events, missed updates while offline, recovery reads, and executable tests | Independent JavaScript simulation; no real network |
+| [Inventory REST API](https://github.com/hrrt-f/almoxarifado-incode) | Java 21, Spring Boot, layered request handling, JPA, and MySQL | Earlier educational project, Incode Module 2 |
+| [Task manager CLI](https://github.com/hrrt-f/lista-de-tarefas) | Java collections, console input, and task operations | Early learning project; in-memory storage |
+
+The synchronization lab is a concise place to see how I explain a tradeoff and verify failure behavior. The Java projects document my foundations rather than the full scope of my current professional work.
+
+## Technologies I use
+
+| Area | Technologies |
 | --- | --- |
-| [Inventory API](https://github.com/hrrt-f/almoxarifado-incode) | An educational product CRUD API using Java 21, Spring Boot, Spring Data JPA, and MySQL. Built during Incode Module 2. |
-| [Task list CLI](https://github.com/hrrt-f/lista-de-tarefas) | A Java console application for adding, completing, listing, and removing tasks using an in-memory collection. |
+| Web | React, TypeScript, JavaScript, React Hook Form, Zod, Tailwind CSS |
+| Backend and data | Java, Spring Boot, PostgreSQL, REST APIs, WebSocket/STOMP |
+| Personal mobile development | React Native, Expo, Supabase |
+| Development workflow | Git, Docker, Postman, Chrome DevTools, automated testing |
 
-## Tools I use
-
-**Frontend & mobile:** React, TypeScript, JavaScript, React Native, Expo, Tailwind CSS, React Hook Form, Zod  
-**Backend & data:** Java, Spring Boot, PostgreSQL, Supabase, REST APIs, WebSocket  
-**Workflow:** Git, Docker, Postman, Figma
+I study Software Engineering at UNDB. I started programming during the pandemic, inspired by my father and brother, and began learning through Harvard's CS50. Since then, I have enjoyed turning everyday problems into software and understanding the decisions behind it.
 
 ## Em português
 
-Sou desenvolvedor full stack, com foco atual em React e TypeScript e experiência em backend com Java e Spring Boot. Curso Engenharia de Software na UNDB e desenvolvo aplicações web e mobile.
+Sou desenvolvedor full stack na Integra Gov e estudante de Engenharia de Software na UNDB. Tenho responsabilidade pelo frontend e também contribuo no backend, nas integrações e na validação das entregas. Busco oportunidades remotas internacionais e mantenho contato com profissionais no Brasil.
 
-Comecei a programar durante a pandemia, inspirado pelo meu pai e pelo meu irmão, que também trabalham com tecnologia. O CS50 de Harvard foi parte desse início; depois, passei a criar pequenos sistemas para resolver problemas que encontrava no dia a dia.
-
-Moro em São Luís, Maranhão, tenho inglês avançado e estou aberto a oportunidades remotas e a conexões profissionais no Brasil e no exterior.
-
-## Let's connect / Vamos conversar
-
-[LinkedIn](https://www.linkedin.com/in/herbertdev/) · [herbertfontdev@gmail.com](mailto:herbertfontdev@gmail.com)
+Os repositórios profissionais são privados. Os projetos públicos acima mostram fundamentos e uma demonstração independente de sincronização, sem código ou dados internos da empresa.
